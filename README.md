@@ -38,6 +38,9 @@ Aspiring Software Engineer aiming for tech roles. I bring a strong foundation in
 
 📫 How to Reach Me
 - 📧 [vipinpavel3@gmail.com](mailto:vipinpavel3@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/vipin-lal/](https://www.linkedin.com/in/vipin-lal/)
+- 💻 LeetCode: [https://leetcode.com/u/Vipin_Lal/](https://leetcode.com/u/Vipin_Lal/)
+
 
 ---
 
