@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... finance and technology 
 - 🌱 I’m currently learning ... computer science and finance 
 - 💞️ I’m looking to collaborate on ... finance related products 
-- 📫 How to reach me ... vipinpavel04@gmail.com
+- 📫 How to reach me ... vipinpavel3@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
